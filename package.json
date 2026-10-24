@@ -1,0 +1,11 @@
+{
+  "name": "mpg",
+  "version": "1.0.0",
+  "language": "MP",
+  "entry": "main.mp",
+  "description": "MP 2D desktop graphics engine",
+  "private": true,
+  "dependencies": {
+    "electron": "^38.0.0"
+  }
+}
